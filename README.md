@@ -15,7 +15,7 @@ The buzzer sounds with a clack sound every time the ball hits the horizontal bou
 
 Link to video (wireless control):
 
-https://drive.google.com/file/d/1guYL0s57D8ZWDD44-EcZPl1KWHlHxF/view?usp=sharin
+https://drive.google.com/file/d/1guYL0s57Dfj8ZWDD44-EcZPl1KWHlHxF/view
 
 None of the code from Part B was changed for this section. I chose to use a slider to control the user paddle wirelessly. As shown in the video, if I move the slider to the left, then the user paddle moves up the screen along the y-axis. If I move the slider to the right, then the user paddle moves down the screen along the y-axis. If I keep the slider relatively in the middle, then the user paddle also stays in the middle of the screen along the y-axis.
 
